@@ -1,2 +1,10 @@
-
-print("Hello World")
+x=input("what are your strengths")
+y=input("what are your weaknesses")
+f=input("are you above the age of 18")
+k=input("why do you want to work here")
+t=input("where do you see yourself in 5 years")
+print(x)
+print(y)
+print(f)
+print(k)
+print(t)
